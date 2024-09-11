@@ -1,4 +1,0 @@
-streamlit
-"C:\Users\ACER\Softroniics\ML\ML Project (Advertisment)\ad_predict.sav"
-"C:\Users\ACER\Softroniics\ML\ML Project (Advertisment)\advertising.csv"
-"C:\Users\ACER\Softroniics\ML\ML Project (Advertisment)\Predict Ad click.ipynb"
