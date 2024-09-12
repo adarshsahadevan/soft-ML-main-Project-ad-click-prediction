@@ -5,7 +5,7 @@ Created on Tue Sep 10 02:02:27 2024
 @author: ACER
 """
 
-import pickle
+#import pickle
 import streamlit as st
 import pandas as pd
 
@@ -18,7 +18,7 @@ import pandas as pd
 # Load the dataframe (assuming it's a CSV file)
 df1 = pd.read_csv('https://raw.githubusercontent.com/adarshsahadevan/ML-Project-ad-/main/advertising.csv')
 
-st.title('Ad_Predict using ML')
+st.title('Ad_Click_Predict')
 
 AdTopicLine = st.text_input('Enter Ad Topic Line')
 
