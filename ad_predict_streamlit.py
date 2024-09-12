@@ -12,7 +12,7 @@ import pandas as pd
 
 
 # Load the saved model
-ad_predict_model = pickle.load(open('https://raw.githubusercontent.com/adarshsahadevan/ML-Project-ad-/main/ad_predict.sav'))
+# ad_predict_model = pickle.load(open('https://raw.githubusercontent.com/adarshsahadevan/ML-Project-ad-/main/ad_predict.sav'))
 
 
 # Load the dataframe (assuming it's a CSV file)
