@@ -16,7 +16,7 @@ import pandas as pd
 
 
 # Load the dataframe (assuming it's a CSV file)
-df1 = pd.read_csv('https://github.com/adarshsahadevan/ML-Project-ad-/blob/main/advertising.csv')
+df1 = pd.read_csv('https://raw.githubusercontent.com/adarshsahadevan/ML-Project-ad-/main/advertising.csv')
 
 st.title('Ad_Predict using ML')
 
